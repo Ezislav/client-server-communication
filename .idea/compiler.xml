@@ -12,6 +12,9 @@
       <module name="com.example.kafka-server.test" target="17" />
       <module name="com.example.kafka.main" target="17" />
       <module name="com.example.kafka.test" target="17" />
+      <module name="gRPC.gRPC-server" target="17" />
+      <module name="gRPC.gRPC-server.main" target="17" />
+      <module name="gRPC.gRPC-server.test" target="17" />
       <module name="kafka" target="17" />
       <module name="kafka-client.main" target="17" />
       <module name="kafka-client.test" target="17" />
