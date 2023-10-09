@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="client-server communication.kafka-client" target="17" />
+      <module name="client-server communication.kafka-client.main" target="17" />
+      <module name="client-server communication.kafka-client.test" target="17" />
+      <module name="com.example.kafka" target="17" />
+      <module name="com.example.kafka-client.main" target="17" />
+      <module name="com.example.kafka-client.test" target="17" />
+      <module name="com.example.kafka-server.main" target="17" />
+      <module name="com.example.kafka-server.test" target="17" />
+      <module name="com.example.kafka.main" target="17" />
+      <module name="com.example.kafka.test" target="17" />
+      <module name="kafka" target="17" />
+      <module name="kafka-client.main" target="17" />
+      <module name="kafka-client.test" target="17" />
+      <module name="kafka-server.kafka" target="17" />
+      <module name="kafka-server.kafka.main" target="17" />
+      <module name="kafka-server.kafka.test" target="17" />
+      <module name="kafka-server.main" target="17" />
+      <module name="kafka-server.test" target="17" />
+      <module name="kafka.main" target="17" />
+      <module name="kafka.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
